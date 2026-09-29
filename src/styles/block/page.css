@@ -1,13 +1,13 @@
 @font-face {
   font-family: Avenir;
   src: url('../fonts/Avenir-Book.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: 300;
 }
 
 @font-face {
   font-family: Avenir;
   src: url('../fonts/Avenir-Heavy.ttf') format('truetype');
-  font-weight: 800;
+  font-weight: 300;
 }
 
 body {

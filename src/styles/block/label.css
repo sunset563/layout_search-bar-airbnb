@@ -1,8 +1,7 @@
 .search-form__label {
-  display: block;
   position: relative;
-
-  margin-top: 20px;
+  display: block;
+  width: 100%;
 }
 
 .search-form__label::after {
