@@ -1,0 +1,12 @@
+.search-form__label {
+  display: block;
+  position: relative;
+
+  margin-top: 20px;
+}
+
+.search-form__label::after {
+  position: absolute;
+  content: ' ';
+  display: block;
+}
